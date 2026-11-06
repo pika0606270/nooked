@@ -1,2 +1,2 @@
-# nuked-klan
-Annonces officielles Nuked-Klan 1.8.x
+# Nooked
+Annonces officielles Nooked 1.8.x
